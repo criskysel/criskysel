@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @criskysel
 - 👀 I’m interested in the robots 
 - 🌱 I’m currently learning React in Codo a Codo
-- 💞️ I’m looking to collaborate on Group#9
+- 💞️ I’m looking to collaborate on Group#4
 - 📫 How to reach me Hiromitsu 
 
 <!---
