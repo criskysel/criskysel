@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @criskysel
 - 👀 I’m interested in the robots 
-- 🌱 I’m currently learning React in Codo a Codo
+- 🌱 I’m currently learning Java in Codo a Codo
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me Hiromitsu 
 
